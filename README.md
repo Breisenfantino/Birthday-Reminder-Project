@@ -7,13 +7,12 @@
   <h3 align="center">Birthday Reminder</h3>
 
   <p align="center">
-    Python Application | 10 lines of code + Video Explanation 🧭
+   
     <br>
     <br />
   </p>
 </p>
 
-* <a href = "mailto: rohitmandal814566@gmail.com">email</a> me your GitHub id (**subject**: GitHub id @qxresearch)
 
 
 <h3 align="center"></h3>
